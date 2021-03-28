@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.winningwidgets">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".Scholar_More_Details"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".ScholarInfoActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngHackhtonsActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngOpenSourceActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngMentorActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngCompPrgmActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngPlacementActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngInternActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngScholarActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".LawActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".CommerceActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".ArtsActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".MedicalActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".EngineeringActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".RegistrationActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".LoginActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".SplashActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

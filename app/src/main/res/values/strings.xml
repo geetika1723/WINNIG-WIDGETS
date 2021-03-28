@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WINNING WIDGETS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expect1"> ==> WE is a unique program designed to identify capable women engineering students, train them to be globally competitive and in the process address the diversity challenge faced by the Tech industry.</string>
+    <string name="expect2">==> To ensure the socio-economic diversity and inclusion, scholarships are provided on merit-cum-means basis.</string>
+    <string name="expect3">==> The program will also enable the participants to gain exposure to professional tools, processes and approaches.</string>
+    <string name="expect4">==> The industry has acknowledged the alumni of the program with 150% of the market premium</string>
+    <string name="req1"> ==> Should know the basics of any language like c, c++,java,etc.</string>
+    <string name="req2">==> Resume should be impressive and must contain one small project</string>
+    <string name="sch_prep_link1"><a href ="https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk">https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk</a></string>
+    <string name="sch_prep_link2"><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ">https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ</a></string>
+    <string name="sch_prep_link3"><a href="https://youtube.com/user/saurabhexponent1">https://youtube.com/user/saurabhexponent1</a></string>
+    <string name="sch_prep_link4"><a href="https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr">https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr</a></string>
+    <string name="sch_prep_link5"><a href ="https://youtu.be/8jSZZM0gSeo">https://youtu.be/8jSZZM0gSeo</a></string>
+    <string name="sch_prep_link6"><a href="https://www.geeksforgeeks.org/how-i-got-selected-for-the-talentsprint-women-engineers-we-program-powered-by-google/">https://www.geeksforgeeks.org/how-i-got-selected-for-the-talentsprint-women-engineers-we-program-powered-by-google/</a></string>
+    <string name="sch_benefit_link1"><a href="https://we.talentsprint.com/">https://we.talentsprint.com/</a></string>
+    <string name="sch_res_link1"><a href ="https://t.me/joinchat/InU5jD9Js8dyhWT0">https://t.me/joinchat/InU5jD9Js8dyhWT0</a></string>
+    <string name="sch_res_link2"><a href="https://discord.gg/dydQp2Q">https://discord.gg/dydQp2Q</a></string>
+    <string name="sch_res_link3"><a href="https://www.linkedin.com/in/ishansharma7390">https://www.linkedin.com/in/ishansharma7390</a></string>
+    <string name="sch_res_link4"><a href="https://ishan7390.github.io/">https://ishan7390.github.io/</a></string>
+    <string name="sch_res_link5"><a href="https://www.linkedin.com/in/kunal-kushwaha">https://www.linkedin.com/in/kunal-kushwaha</a></string>
+    <string name="sch_res_link6"><a href="https://kunal-kushwaha.github.io">https://kunal-kushwaha.github.io</a></string>
+
+</resources>

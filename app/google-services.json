@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384928443624",
+    "project_id": "winning-widgets",
+    "storage_bucket": "winning-widgets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384928443624:android:d9256852f22ff49f2ead5d",
+        "android_client_info": {
+          "package_name": "com.example.winningwidgets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384928443624-b0l9u7lto12dumu5qlj9cbbfta62guki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNPlsU7lN52B9R4LuYwpHCjZpyincTef0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384928443624-b0l9u7lto12dumu5qlj9cbbfta62guki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

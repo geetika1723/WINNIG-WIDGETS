@@ -15,16 +15,13 @@ public class EngScholarActivity extends AppCompatActivity {
             "WE program",
             "DE Shaw ",
             "Adobe India Women in Technology Scholarship",
-            " WE program",
+            "WeTech Goldman Sachs Mentorship",
             " Grace Hopper Celebration India(GHCI)India Students Scholarship ",
-            " Wahid Biryani",
-            "Dastarkhwan",
-            "Urban Terrace,",
-            "The Urban Dhaba",
-            "Spice Caves",
-            "Vintage Machine",
-            "Barbeque Nation",
-            "L-14"
+            "WE program",
+            "DE Shaw ",
+            "Adobe India Women in Technology Scholarship",
+            "WeTech Goldman Sachs Mentorship",
+            " Grace Hopper Celebration India(GHCI)India Students Scholarship ",
     };
     String apply_dates[] = {
             "OPEN :Opens in the month of February",
@@ -32,14 +29,11 @@ public class EngScholarActivity extends AppCompatActivity {
             "OPEN: Opens in the month of August",
             "OPEN: Opens in the month of February",
             "OPEN: Opens in the month of April",
-            " Wahid Biryani",
-            "Dastarkhwan",
-            "Urban Terrace",
-            "The Urban Dhaba",
-            "Spice Caves",
-            "Vintage Machine",
-            "Barbeque Nation",
-            "L-14"
+            "OPEN :Opens in the month of February",
+            "OPEN: Opens in the month of October (5th Semester)",
+            "OPEN: Opens in the month of August",
+            "OPEN: Opens in the month of February",
+            "OPEN: Opens in the month of April",            
     };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
